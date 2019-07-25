@@ -144,7 +144,7 @@ class CharacterQuery extends Component {
               onClick={ () => this.generateId() }
               primary={true}
               >
-              Generar Personaje
+              Generar
             </Button>
           </Column>
           <Column xs='6'>

@@ -30,7 +30,7 @@ const Wrapper = styled.div`
 const Row = styled.div`
   padding: ${props => props.primary
     ? '1em'
-    : '1em'}
+    : '2em'}
   font-size: ${props => props.primary
     ? '1.5em'
     : '1em'}
@@ -96,7 +96,7 @@ const ButtonStyle = styled.button`
 // Modal wrapper
 const ModalWrapper = styled.div`
   position: absolute;
-  top: 13em;
+  top: 14em;
   left: 1em;
   height: 60%
   width: 100%;
