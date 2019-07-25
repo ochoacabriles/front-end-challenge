@@ -135,7 +135,7 @@ class CharacterQuery extends Component {
     const { history, historyId, showModal } = this.state
     let buttonText = showModal 
       ? 'Ocultar Historial'
-      : 'Mostrar Historial'
+      : 'Historial'
     return (
       <Wrapper primary={false}>
         <Row primary={false}>

@@ -88,7 +88,7 @@ const ButtonStyle = styled.button`
     ? '#FFFFFF'
     : '#000000'}
   }
-  font-size: 1em
+  font-size: 0.75em
   margin: 1em
   border: 2px solid #2B5797
   border-radius: 3px`
@@ -99,7 +99,7 @@ const ModalWrapper = styled.div`
   top: 14em;
   left: 1em;
   height: 60%
-  width: 100%;
+  width: 80%;
   padding: 1em;
   background-color: #EFF4FF
 `
