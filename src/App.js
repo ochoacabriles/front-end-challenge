@@ -20,7 +20,7 @@ function App() {
       <GlobalStyle />
       <Wrapper primary={true}>
         <Row primary={true}>
-          <h3>Blockdemy Frontend Challenge</h3>
+          <h3>Front-end Challenge</h3>
         </Row>
       </Wrapper>
       <CharacterQuery />
